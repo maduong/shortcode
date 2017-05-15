@@ -3,6 +3,10 @@
     "description": "Edutalk shortcode integration",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/shortcode/issues",
+        "source": "https://github.com/maduong/shortcode"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
