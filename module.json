@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-shortcode",
+    "name": "Edutalk shortcode integration",
+    "author": "Vuong Pham",
+    "description": "Edutalk shortcode integration",
+    "namespace": "Edutalk\\Base\\Shortcode",
+    "autoload": "psr-4"
+}
